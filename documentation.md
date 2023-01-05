@@ -1,0 +1,5 @@
+- terminal: npm i --save-dev typedoc
+- package.json: "document": "typedoc --out docs src"
+- terminal: npm run document
+- playground: https://microsoft.github.io/tsdoc/
+- doc oficial: https://typedoc.org/guides/overview/
